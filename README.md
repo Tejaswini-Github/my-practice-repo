@@ -1,3 +1,2 @@
 # my-practice-repo
-my practice repo
-first repo created
+my practice first repo created
